@@ -33,7 +33,12 @@ Here are some ideas to get you started:
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 - 🔭 I'm currently working with [Banked :](https://banked.com) building checkout APIs
-- 🌱 I’m currently learning Python for Machine Learning
+
+- 📖 What I am currently learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats-phi-three-43.vercel.app/api?username=Jacob-Roberts" alt="My GitHub Stats" />
