@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working with [Banked :](https://banked.com) building checkout APIs
 - 🌱 I’m currently learning Python for Machine Learning
 
-
-[![Top Langs](https://github-readme-stats-phi-three-43.vercel.app/api/top-langs/?username=Jacob-Roberts&hide=clojure)](https://github.com/Jacob-Roberts/github-readme-stats)
-[![Jacob Robert's GitHub stats](https://github-readme-stats-phi-three-43.vercel.app/api?username=Jacob-Roberts)](https://github.com/Jacob-Roberts/github-readme-stats)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats-phi-three-43.vercel.app/api?username=Jacob-Roberts" alt="My GitHub Stats" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats-phi-three-43.vercel.app/api/top-langs?username=Jacob-Roberts&layout=compact&langs_count=8&card_width=320" />
+</a>
