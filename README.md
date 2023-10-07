@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me
 
-![Email me](https://img.shields.io/badge/Email%20Me-jroberts.g1ql8@simplelogin.com-blue?style=for-the-badge)
+[![Email me](https://img.shields.io/badge/Email%20Me-jroberts.g1ql8@simplelogin.com-blue?style=for-the-badge)](mailto:jroberts.g1ql8@simplelogin.com)
 [![linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertsjake)
 
 - 🧰 Some of my favorite tools
