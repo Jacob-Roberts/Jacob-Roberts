@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-- 🔭 I'm currently working with [Banked :](https://banked.com) building checkout APIs
+- 🔭 I'm currently working with [Monzo](https://monzo.com) building business banking services.
 
 - 📖 What I am currently learning
 
