@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 [![Email me](https://img.shields.io/badge/Email%20Me-jroberts.g1ql8@simplelogin.com-blue?style=for-the-badge)](mailto:jroberts.g1ql8@simplelogin.com)
 [![linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertsjake)
 
+- ✍️ My writing
+
+[jakerob.pro](https://jakerob.pro?utm_source=github_profile)
+
 - 🧰 Some of my favorite tools
 
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
